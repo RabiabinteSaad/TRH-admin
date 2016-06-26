@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/../../nrn-master-1/nrn-master-1/PushRapidNotifierlatest/www/css/style.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../nrn-master-1/nrn-master-1/PushRapidNotifierlatest/www/templates/CallModal.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../nrn-master-1/nrn-master-1/PushRapidNotifierlatest/www/templates/Modal.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/css/style.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/js/app.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/js/controller.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/templates/CallModal.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/templates/EventDetails.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/templates/Events.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/templates/Modal.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/templates/NewAnnouncement.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/templates/Notifications.html" charset="UTF-8" />
+  </component>
+</project>
